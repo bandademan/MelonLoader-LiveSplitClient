@@ -2,7 +2,7 @@
 using MelonLoader;
 
 /*
- * LiveSplitClient - This class is a MelonLoader Mod API used to connect and run to a LiveSplit Server 
+ * LiveSplitClient - This class is a MelonLoader Mod class used to connect and run to a LiveSplit Server 
  *      LiveSplit Server - https://github.com/LiveSplit/LiveSplit.Server
  */
 public class LiveSplitClient
