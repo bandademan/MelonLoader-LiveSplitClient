@@ -1,11 +1,5 @@
-﻿using System;
-using System.Net.Sockets;
-using System.Net;
-using MelonLoader;
-using UnityEngine;
-using UnityEngine.InputSystem;
-using System.IO;
-using Il2Cpp;
+﻿using MelonLoader;
+
 namespace LiveSplitMod 
 {
     /*
