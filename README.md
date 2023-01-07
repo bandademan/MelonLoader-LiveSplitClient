@@ -1,5 +1,5 @@
 # MelonLoader-LiveSplitClient
- MelonLoader-LiveSplitClient is a LiveSplit Client API used alongside MelonLoader to allow modders to develop autospliters using the LiveSplit Server component.
+ MelonLoader-LiveSplitClient is a LiveSplit Client class used alongside MelonLoader to allow modders to develop autospliters using the LiveSplit Server component.
 
 ## Setup
 For LiveSplit Server setup follow the LiveSplit Server README - https://github.com/LiveSplit/LiveSplit.Server
@@ -10,7 +10,7 @@ For LiveSplit Server setup follow the LiveSplit Server README - https://github.c
  - Profit
 
 ## How to Use
-LiveSplitClient API is built with constructors to create and connect to the LiveSplit Server
+LiveSplitClient is built with constructors to create and connect to the LiveSplit Server
   
 The default constructor connects to the 'localhost' at port 16834 however if you want to change the ip or the port another constructor is available.
 You can also choose to enable/disable logging to allow debugging when commands are sent to the Server.
