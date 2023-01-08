@@ -55,3 +55,7 @@ class Patch
      
 }
 ```
+
+### Example Game Use
+Inside the Backrooms LiveSplit Mod - 
+https://github.com/bandademan/ITBLiveSplitMod
